@@ -38,6 +38,7 @@
     "dustjs-linkedin": "^2.7.2",
     "eco": "^1.1.0-rc-3",
     "ect": "^0.5.9",
+    "edge.js": "^1.1.4",
     "ejs": "^2.3.4",
     "eslint": "^3.7.1",
     "eslint-config-standard": "^6.2.0",
